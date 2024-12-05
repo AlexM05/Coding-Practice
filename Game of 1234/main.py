@@ -74,3 +74,7 @@ else:
         print("Congratulations! You won!")
         attempt_count += 1
         print("It took you", attempt_count, "attempts.")
+
+
+if __name__ == "__main__":
+    main()
